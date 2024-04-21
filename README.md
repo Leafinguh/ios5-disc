@@ -4,4 +4,4 @@ main goal is accuracy ofc but the secondary goal is to have as little images as 
 
 # instructions
 either download the latest release css and put it in the themes folder of your modded client  
-or copy the link https://leafinguh.githhub.io/ios5-disc/IOS5.theme.css
+or copy the link https://leafinguh.github.io/ios5-disc/IOS5.theme.css
